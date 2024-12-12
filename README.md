@@ -20,4 +20,4 @@ This repository is a collection of my machine learning projects, showcasing vari
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Machine-Learning-Projects.git
+   git clone https://github.com/Amirreza-Bazmi/Machine-Learning-Projects.git
