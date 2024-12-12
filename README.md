@@ -6,7 +6,7 @@ This repository is a collection of my machine learning projects, showcasing vari
 
 ## 📂 Projects Overview
 
-- **Project 1**: [Title or brief description of the first project]  
+- **Project 1**: ![Regression Project](https://github.com/Amirreza-Bazmi/Machine-Learning-Projects/blob/main/Regression/1-Linear%20Regression%20with%20phi%20function%20(mileage).png)
 - **Project 2**: [Title or brief description of the second project]  
 - **... and more coming soon!**
 
