@@ -15,7 +15,7 @@ This repository is a collection of my machine learning projects, showcasing vari
 - Supervised Learning
 - Unsupervised Learning
 - Data Analysis and Visualization
-- 
+  
 ## 🚀 How to Use
 
 1. Clone the repository:
