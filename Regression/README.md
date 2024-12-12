@@ -9,10 +9,7 @@ This repository contains code and plots for performing **linear regression** on 
 1. **`data.csv`**: The dataset containing car prices and their corresponding features.
 2. **`linear_regression.py`**: Implements linear regression using the `scikit-learn` library.
 3. **`linear_regression_phi.py`**: Implements linear regression manually with a custom feature (phi) transformation and regularization.
-4. **Plots**:
-   ![Customers by Country](https://github.com/Amirreza-Bazmi/Machine-Learning-Projects/blob/main/Regression/1-Linear%20Regression%20with%20phi%20function%20(mileage).png)
-   - [Linear Regression with Mileage](https://github.com/Amirreza-Bazmi/Machine-Learning-Projects/blob/main/Regression/1-Linear%20Regression%20with%20phi%20function%20(mileage).png)
-
+   ![](https://github.com/Amirreza-Bazmi/Machine-Learning-Projects/blob/main/Regression/1-Linear%20Regression%20with%20phi%20function%20(mileage).png)
 
 ---
 
