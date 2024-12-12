@@ -6,7 +6,7 @@ This repository is a collection of my machine learning projects, showcasing vari
 
 ## 📂 Projects Overview
 
-- **Project 1**: ![Regression Project](https://github.com/Amirreza-Bazmi/Machine-Learning-Projects/tree/main/Regression)
+- **Project 1**: [Regression Project](https://github.com/Amirreza-Bazmi/Machine-Learning-Projects/tree/main/Regression)
 - **Project 2**: [Title or brief description of the second project]  
 - **... and more coming soon!**
 
