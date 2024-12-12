@@ -10,11 +10,8 @@ This repository contains code and plots for performing **linear regression** on 
 2. **`linear_regression.py`**: Implements linear regression using the `scikit-learn` library.
 3. **`linear_regression_phi.py`**: Implements linear regression manually with a custom feature (phi) transformation and regularization.
 4. **Plots**:
-   - [Linear Regression with Mileage]()
-   - [Linear Regression with Cylinder](https://github.com/Amirreza-Bazmi/Machine-Learning-Projects/blob/main/Regression/2-Linear%20Regression-Cylinder.png)
-   - [Linear Regression with Cruise](https://github.com/Amirreza-Bazmi/Machine-Learning-Projects/blob/main/Regression/2-Linear%20Regression-Cruise.png)
-   - [Linear Regression with Doors](https://github.com/Amirreza-Bazmi/Machine-Learning-Projects/blob/main/Regression/2-Linear%20Regression-Doors.png)
-   - [Linear Regression with Leather](https://github.com/Amirreza-Bazmi/Machine-Learning-Projects/blob/main/Regression/2-Linear%20Regression-Leather.png)
+   - [Linear Regression with Mileage](https://github.com/Amirreza-Bazmi/Machine-Learning-Projects/blob/main/Regression/1-Linear%20Regression%20with%20phi%20function%20(mileage).png)
+
 
 ---
 
