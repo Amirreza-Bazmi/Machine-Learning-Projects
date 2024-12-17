@@ -16,14 +16,6 @@ This repository contains Python implementations for **Simple Linear Regression**
    - Weighted Linear Regression: A smooth curve fit based on Gaussian weights.
 
 ---
-## 🚀 How to Run
-
-### 1. Clone the Repository
-To get started, clone the repository using the following command:
-```bash
-git clone https://github.com/Amirreza-Bazmi/Machine-Learning-Projects.git
-cd Machine-Learning-Projects/Simple and Weighted Linear Regression
-
 
 ### Input Parameters: **Understanding \( \tau \) (Tau)**
 
@@ -55,6 +47,19 @@ When running the script, you will be prompted to input the **\( \tau \)** value,
 When you execute the script, you’ll see the following prompt in your terminal:
 ```bash
 Enter value of tau: 0.8
+```
+
+---
+
+## 🚀 How to Run
+
+### 1. Clone the Repository
+To get started, clone the repository using the following command:
+```bash
+git clone https://github.com/Amirreza-Bazmi/Machine-Learning-Projects.git
+cd Machine-Learning-Projects/Simple and Weighted Linear Regression
+
+
 
 
 
