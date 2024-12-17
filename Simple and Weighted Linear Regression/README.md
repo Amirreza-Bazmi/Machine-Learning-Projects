@@ -22,7 +22,7 @@ This repository contains Python implementations for **Simple Linear Regression**
 
 When running the script, you will be prompted to input the **\( \tau \)** value, which controls the **bandwidth parameter** for the Gaussian kernel in Weighted Linear Regression.
 
-#### What is $$ \tau $$?
+#### What is $\tau$?
 - \( \tau \) determines how much influence each data point has during regression based on its distance to the test point.
 - The Gaussian kernel function is defined as:
 
