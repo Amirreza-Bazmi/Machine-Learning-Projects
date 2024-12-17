@@ -25,9 +25,7 @@ When running the script, you will be prompted to input the **\( \tau \)** value,
 - \( \tau \) determines how much influence each data point has during regression based on its distance to the test point.
 - The Gaussian kernel function is defined as:
   $$
-   \[
-   K(x_1, x_2) = \exp\left(-\frac{(x_1 - x_2)^2}{2 \cdot \tau^2}\right)
-   \]
+  K(x_1, x_2) = \exp\left(-\frac{(x_1 - x_2)^2}{2 \cdot \tau^2}\right)
   $$
    - **Nearby points** have larger kernel values and contribute more.
    - **Distant points** have smaller kernel values and contribute less.
