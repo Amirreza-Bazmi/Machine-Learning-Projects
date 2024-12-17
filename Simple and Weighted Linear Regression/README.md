@@ -17,13 +17,13 @@ This repository contains Python implementations for **Simple Linear Regression**
 
 ---
 
-### Input Parameters: **Understanding \( \tau \) (Tau)**
+### Input Parameters: **Understanding $\tau$ (Tau)**
 
 
-When running the script, you will be prompted to input the **\( \tau \)** value, which controls the **bandwidth parameter** for the Gaussian kernel in Weighted Linear Regression.
+When running the script, you will be prompted to input the **$\tau$** value, which controls the **bandwidth parameter** for the Gaussian kernel in Weighted Linear Regression.
 
 #### What is $\tau$?
-- \( \tau \) determines how much influence each data point has during regression based on its distance to the test point.
+- $\tau$ determines how much influence each data point has during regression based on its distance to the test point.
 - The Gaussian kernel function is defined as:
 
 $$
@@ -33,20 +33,20 @@ $$
    - **Nearby points** have larger kernel values and contribute more.
    - **Distant points** have smaller kernel values and contribute less.
 
-#### How \( \tau \) Affects the Model:
-- **Small \( \tau \) (e.g., 0.1)**:
+#### How $\tau$ Affects the Model:
+- **Small $\tau$ (e.g., 0.1)**:
    - The model gives high weight to nearby points and less to distant points.
    - Results in a **highly localized** fit, capturing small variations in data.
    - May lead to **overfitting**.
 
-- **Large \( \tau \) (e.g., 1.0)**:
+- **Large $\tau$ (e.g., 1.0)**:
    - The model considers distant points more evenly.
    - Produces a **smoother curve** that generalizes better to the overall trend.
    - May lead to **underfitting**.
 
 ---
 
-#### Example of Prompting \( \tau \):
+#### Example of Prompting $\tau$:
 When you execute the script, you’ll see the following prompt in your terminal:
 ```bash
 Enter value of tau: 0.8
