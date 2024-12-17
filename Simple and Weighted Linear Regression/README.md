@@ -61,9 +61,3 @@ To get started, clone the repository using the following command:
 ```bash
 git clone https://github.com/Amirreza-Bazmi/Machine-Learning-Projects.git
 cd Machine-Learning-Projects/Simple and Weighted Linear Regression
-
-
-
-
-
-
