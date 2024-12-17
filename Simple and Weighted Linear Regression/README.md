@@ -17,10 +17,8 @@ This repository contains Python implementations for **Simple Linear Regression**
 
 ---
 
-### Input Parameters: **Understanding $$
-\tau
-$$
-(Tau)**
+### Input Parameters: **Understanding \( \tau \) (Tau)**
+
 
 When running the script, you will be prompted to input the **\( \tau \)** value, which controls the **bandwidth parameter** for the Gaussian kernel in Weighted Linear Regression.
 
