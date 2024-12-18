@@ -7,7 +7,7 @@ This repository is a collection of my machine learning projects, showcasing vari
 ## 📂 Projects Overview
 
 - **Project 1**: [Regression Project](https://github.com/Amirreza-Bazmi/Machine-Learning-Projects/tree/main/Regression)
-- **Project 2**: [Title]  
+- **Project 2**: [Simple and Weighted Linear Regression](https://github.com/Amirreza-Bazmi/Machine-Learning-Projects/tree/main/Simple%20and%20Weighted%20Linear%20Regression)  
 
 
 ## 📖 Topics Covered
